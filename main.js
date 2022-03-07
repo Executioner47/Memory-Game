@@ -1,4 +1,4 @@
-document.body.style.zoom = "60%";
+
 
 //setting duration of the card flip
 let duration = 1000
